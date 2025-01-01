@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Musajidda
-- 👀 I’m interested in  mobile applicationn-
--  🌱 I’m currently learning Flutter a
-- 💞️ I’m looking to collaborate on how to be expert in it 
+- 👀 I’m interested in mobile applications, including Flutter development, and machine learning (ML)
+- 🌱 I’m currently learning Machine learning (ML) 
+- 💞️  I’m looking to collaborate and become an expert in Flutter mobile app development and machine learning
+- 🧑‍💻 My stack includes:
+-  Frontend: React, Js
+-  Mobile: Flutter (for mobile app development)
+-  Backend: Flask, PHP, MySQL, Firebase (Firestore for real-time database)
+-  Machine Learning: TensorFlow, Keras
+-  Tools: Postman (for API testing)
 - 📫 How to reach me muhammadmjidder8@gmail.com
-
-<!---
-Musajidda/Musajidda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
