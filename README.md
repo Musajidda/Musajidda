@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Musajidda
-- 👀 I’m interested in  mobile application
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on how to be expert in it 
-- 📫 How to reach me muhammadmjidder8@gmail.com
-
-<!---
-Musajidda/Musajidda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Musajidda
+👀 I’m interested in mobile applications, including Flutter development, and deep learning
+🌱 I’m currently learning Flutter for building mobile apps
+💞️ I’m looking to collaborate and become an expert in Flutter mobile app development and deep learning
+🧑‍💻 My stack includes:
+Frontend: React, TypeScript, Flutter
+Backend: Flask, PHP, MySQL
+Deep Learning: TensorFlow, Keras
+📫 How to reach me: muhammadmjidder8@gmail.com
